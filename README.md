@@ -1,4 +1,4 @@
-FB23041286 - IPA Pronunciations are broken
+# FB23041286 - IPA Pronunciations are broken
 
 Playing the same IPA pronunciations on iOS 26.5 and iOS 27.0 beta 1 yield very different results. It appears as if iOS is ignoring the IPA symbols.
 
